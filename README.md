@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Abigail Oluwabanke Eboda</h1>
-- 🌱 I’m currently learning JavaScript, React, Microservices
+
+- 🌱 I’m currently learning **JavaScript, React, Microservices**
 
 - 💬 Ask me about **C#, ASP.NET, Android, Kotlin, HTML/CSS, JavaScript, React**
 
