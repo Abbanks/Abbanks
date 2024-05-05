@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abigail Oluwabanke Eboda</h1>
-- 🌱 I’m currently learning **JavaScript and React**
 
-- 💬 Ask me about **C#, ASP.NET, Android**
+<h1 align="center">Hi 👋, I'm Abigail Oluwabanke Eboda</h1>
+- 🌱 I’m currently learning JavaScript, React, Microservices
+
+- 💬 Ask me about **C#, ASP.NET, Android, Kotlin, HTML/CSS, JavaScript, React**
 
 - 📫 How to reach me **olubanke.eboda@gmail.com**
 
@@ -37,3 +38,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbanks&show_icons=true&locale=en" alt="abbanks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbanks&" alt="abbanks" /></p>
+
