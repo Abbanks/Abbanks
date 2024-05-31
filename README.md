@@ -39,4 +39,23 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbanks&show_icons=true&locale=en" alt="abbanks" /></p>
 
  
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbanks&show_icons=true&locale=en" alt="abbanks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbanks" alt="abbanks" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abbanks" alt="abbanks" />
+</p>
+
+## Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abbanks" alt="abbanks" />
+</p>
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abbanks" alt="abbanks" />
+</p>
 
