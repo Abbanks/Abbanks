@@ -15,19 +15,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Abigail Oluwabanke Eboda</h1>
 
-- 🌱 I’m currently learning **React, Microservices**
-
-- 💬 Ask me about **C#, ASP.NET, React**
-
 - 📫 How to reach me **olubanke.eboda@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/6414oanmfj](https://flowcv.com/resume/6414oanmfj)
 
-- ⚡ Fun fact **I love music**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abbanks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abbanks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abigail-o-eboda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abigail-o-eboda" height="30" width="40" /></a>
 </p>
 
